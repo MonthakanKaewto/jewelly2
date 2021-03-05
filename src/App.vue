@@ -4,7 +4,7 @@
       <b-navbar type="dark" variant="dark">
         <b-navbar-nav>
           <router-link to="/" class="container">
-            <b-nav-item href="/">TuuShop</b-nav-item>
+            <b-nav-item href="/">JewelryShop</b-nav-item>
           </router-link>
         </b-navbar-nav>
         <b-navebar-nav class="ml-auto">
